@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Резюме Бакай Р.Р.</title>
+    <style>
+        /*div{*/
+        /*    border:1px solid red;*/
+        /*}*/
+        .info>p{
+            margin: 0;
+            /*border: 1px solid black;*/
+            width: 250px;
+            display: inline-block;
+            padding: 10px;
+            text-indent: 20px;
+            /*letter-spacing: 2px;*/
+        }
+        .container{
+            border:1px solid skyblue;
+            width: 800px;
+            height: 1500px;
+            background-color: #eeeeff;
+            margin: auto;
+        }
+        .baseinfo{
+            height: 16%;
+        }
+        .info{
+            width: 600px;
+            float: left;
+        }
+        .photo{
+            /*border: 1px solid blue;*/
+            width: 150px;
+            height: 204px;
+            float: left;
+            padding: 10px;
+            margin: 10px 14px auto 6px;
+        }
+        .education{
+            height: 12%;
+        }
+        .experience{
+            height: 34%;
+        }
+        .skills{
+            height: 15%;
+        }
+        .me{
+            height: 15%;
+        }
+        .line{
+            width:760px;
+            height: 40px;
+            background-color:cadetblue;
+            color: white;
+            letter-spacing: 2px;
+            text-indent: 10px;
+            line-height: 40px;
+            font-size: 20px;
+            margin:10px 18px 0 18px;
+        }
+        .linetitle{
+            color: cadetblue;
+            font-size: 16px;
+            margin-left: 20px;
+        }
+        .linetitle span{
+            display: inline-block;
+            width:30%;
+            text-align: center;
+        }
+        .linetitle span:first-child
+        {
+           text-align: left;
+        }
+        .linetitle span:last-child{
+            text-align: right;
+        }
+        .text{
+            text-indent: 30px;
+ 
+        }
+        .text:before{
+            content: "·";
+            margin-right: 8px;
+            font-size: 20px;
+            font-weight: bolder;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="baseinfo">
+            <div class="info">
+                <p style = "Размер шрифта: 30px; цвет: lightseagreen; вес font: bold">       </ p>
+                                 <p align="center"><b>Бакай Роман Романович<b></p> 
+                                 
+                        <p> Дата народження: 2004.09.24 </ P> <P> Контактний телефон:38-068-307-51-90 </ P>
+                            <p> Місце проживання: м. Збараж
+                            Тернопільска область </ P>
+                                  <p> Ел. пошта:<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJqXzCvsKqSgrPTnKNKWXMPvmQsQfKXCDKvjrVVkNVctdVMpLdHsTslfRWqpXcFfbLdGGVB">romanbakay7@gmail.com</a>
+                                   <br>
+                                 <p> Військове звання: молодший сержант Державної служби спеціального зв'язку та захисту інформації України' </ p>
+ 
+            </div>
+            <div class="photo">
+                <img src="BAKAA.JPG" style="width: 100%;height: 100%;">
+            </div>
+ 
+        </div>
+ 
+        <div class="education">
+                          
+            <div>
+                <hr> <P>  </P>
+                                 <br>
+                                 <p align="center"> <big>Освіта </big></p>
+                                 <br>
+
+                                >Середня освіта
+Ромен, [16.11.2022 12:27]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Резюме Бакай Р.Р.</title>
+    <style>
+        /*div{*/
+        /*    border:1px solid red;*/
+        /*}*/
+        .info>p{
+            margin: 0;
+            /*border: 1px solid black;*/
+            width: 250px;
+            display: inline-block;
+            padding: 10px;
+            text-indent: 20px;
+            /*letter-spacing: 2px;*/
+        }
+        .container{
+            border:1px solid skyblue;
+            width: 800px;
+            height: 1500px;
+            background-color: #eeeeff;
+            margin: auto;
+        }
+        .baseinfo{
+            height: 16%;
+        }
+        .info{
+            width: 600px;
+            float: left;
+        }
+        .photo{
+            /*border: 1px solid blue;*/
+            width: 150px;
+            height: 204px;
+            float: left;
+            padding: 10px;
+            margin: 10px 14px auto 6px;
+        }
+        .education{
+            height: 12%;
+        }
+        .experience{
+            height: 34%;
+        }
+        .skills{
+            height: 15%;
+        }
+        .me{
+            height: 15%;
+        }
+        .line{
+            width:760px;
+            height: 40px;
+            background-color:cadetblue;
+            color: white;
+            letter-spacing: 2px;
+            text-indent: 10px;
+            line-height: 40px;
+            font-size: 20px;
+            margin:10px 18px 0 18px;
+        }
+        .linetitle{
+            color: cadetblue;
+            font-size: 16px;
+            margin-left: 20px;
+        }
+        .linetitle span{
+            display: inline-block;
+            width:30%;
+            text-align: center;
+        }
+        .linetitle span:first-child
+        {
+           text-align: left;
+        }
+        .linetitle span:last-child{
+            text-align: right;
+        }
+        .text{
+            text-indent: 30px;
+ 
+        }
+        .text:before{
+            content: "·";
+            margin-right: 8px;
+            font-size: 20px;
+            font-weight: bolder;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="baseinfo">
+            <div class="info">
+                <p style = "Размер шрифта: 30px; цвет: lightseagreen; вес font: bold">       </ p>
+                                 <p align="center"><b>Бакай Роман Романович<b></p> 
+                                 
+                        <p> Дата народження: 2004.09.24 </ P> <P> Контактний телефон:38-068-307-51-90 </ P>
+                            <p> Місце проживання: м. Збараж
+                            Тернопільска область </ P>
+                                  <p> Ел. пошта:<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJqXzCvsKqSgrPTnKNKWXMPvmQsQfKXCDKvjrVVkNVctdVMpLdHsTslfRWqpXcFfbLdGGVB">romanbakay7@gmail.com</a>
+                                   <br>
+                                 <p> Військове звання: молодший сержант Державної служби спеціального зв'язку та захисту інформації України' </ p>
+ 
+            </div>
+            <div class="photo">
+                <img src="BAKAA.JPG" style="width: 100%;height: 100%;">
+            </div>
+ 
+        </div>
+ 
+        <div class="education">
+                          
+            <div>
+                <hr> <P>  </P>
+                                 <br>
+                                 <p align="center"> <big>Освіта </big></p>
+                                 <br>
+
+                                >Середня освіта
+
+Ромен, [16.11.2022 12:27]
+2010.09-2021.06 </ span> <span> <a href="https://www.facebook.com/shkola6/">Золотоніська ЗОШ №6</a>  </ span> <span> 
+                                  </ span> </ p>
+                                 <p class = "текст">> Курси англійської мови 08.2018-05.2021 м. Золотоноша </ p>
+                                    <p class = "текст">>Вища освіта 2021.08-зараз <a href="https://ru-ru.facebook.com/iszzi/">ІССЗІ КПІ ім.Ігоря Сікорського</a> м.Київ </ p>
+                                 
+            </div>
+        </div>
+ 
+        <div class="experience">
+                         
+            <div>
+                <br>
+                            <br> <p align="center"> <big>Особисті заслуги та посади </big></p>
+                                 <br>
+
+                                 <p class = "текст"> >Кандидат у Майстри Спорту з Греко-Римської Боротьби 2021 р. </ p>
+                                 <p class = "текст">>Призер Чемпіонату України, 4 разовий чемпіон Черкаської області з боротьби </ p>
+                                 <p class = "текст"> >Президент Золотоніської ЗОШ №6 2020-2021Р. </ p>
+                                 <p class = "текст"> >Перший заступник молодіжного Міського Голови м.Золотоноша 2020-2021р.  </ p>
+                                <p class = "текст"> >Командир ІІ відділення С-12 групи С-1 Курсу Інституту спеціального зв'язку та захисту інформації Національного технічного університету України КПІ ім.Ігоря Сікорського 09.2021-зараз
+                                
+            </div>
+ 
+            <div>
+                                 <br> <p align="center"> <big>Навички </big></p>
+                                 <br>
+                                 <p >>Продвинуте користування ПК </ p>
+                                 <p >>Знання української мови на розмовному рівні </ p>
+                                 <p >> Знання англійської мови на рівні В+ </ p>
+                                 <p >>Введення документів і рапортів різних складностей </ p>
+                                 <p>>Організація та проведення різноманітних заходів </p>
+                                 <br>
+                                 <p align="center"> <big>Про себе </big></p>
+                                 <br>
+
+                                 <p>Я, Бакай Роман Романович, мені 18 років, навчаюсь в ІСЗЗІ КПІ ім.Ігоря Сікорського, планую все життя пов'язати себе зі службою українському народові, в навчальному закладі де я навчаюсь дуже приємні викладачі, командири, було б непогано залишитись служити в даному Інстиуті</p>
+            </div>
+        </div>
+ 
+</body>
+</html>
